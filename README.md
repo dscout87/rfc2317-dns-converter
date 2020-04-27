@@ -1,2 +1,2 @@
 # rfc2317-dns-converter
-Convert CIDR to revers DNS zone name using rfc2317 specification
+Convert IPv4 CIDR to revers DNS zone name using rfc2317 specification
